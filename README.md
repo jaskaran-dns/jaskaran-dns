@@ -24,6 +24,6 @@ Github Stats: https://github-readme-stats.vercel.app/api?username=jaskaran-dns
 - 📁 *Soon
 
 ### 🤝 Connect with Me:
-[LinkedIn](www.linkedin.com/in/jaskaran-kamboj-95b12833b) | [Twitter](https://x.com/LifeNLearnJazz) | [TryHackMe/HackTheBox](https://tryhackme.com/p/jasschoudhry1322)
+[LinkedIn](www.linkedin.com/in/jaskaran-kamboj-95b12833b) | [Twitter](https://x.com/LifeNLearnJazz) | [TryHackMe](https://tryhackme.com/p/jasschoudhry1322)
 
 > "The better you understand the logic (AI), the better you can defend the system (Security)."
