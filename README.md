@@ -17,8 +17,7 @@ I am a tech explorer sitting at the intersection of **Artificial Intelligence** 
 - **Cyber/Tools:** ![Kali Linux](https://img.shields.io/badge/Kali-linux%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Activity:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jaskaran-dns &show_icons=true&theme=tokyonight&hide_border=true)
-
+Github Stats: https://github-readme-stats.vercel.app/api?username=jaskaran-dns
 ---
 
 ### 🛠️ Current Projects:
